@@ -1,0 +1,16 @@
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.csprojAssemblyReference.cache
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.Form1.resources
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.csproj.GenerateResource.cache
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.AssemblyInfoInputs.cache
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.AssemblyInfo.cs
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.exe
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.deps.json
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.runtimeconfig.json
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.runtimeconfig.dev.json
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.dll
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.pdb
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.dll
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.pdb
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.genruntimeconfig.cache
+C:\Users\Naïm\Documents\GitHub\Calculatrice\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.Properties.Resources.resources
